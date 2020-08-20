@@ -1,4 +1,4 @@
 public class { public static  void  main (string[] agrs){
-	System.out.println( "SE");
+	System.out.println( "SeeE");
 }
 }
